@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/transcashform/static/css/main.e64acebe.css",
+    "main.js": "/transcashform/static/js/main.a7ecf53c.js",
+    "static/media/imgPrincipal.jpg": "/transcashform/static/media/imgPrincipal.fa2746a35282f2c3265e.jpg",
+    "index.html": "/transcashform/index.html",
+    "main.e64acebe.css.map": "/transcashform/static/css/main.e64acebe.css.map",
+    "main.a7ecf53c.js.map": "/transcashform/static/js/main.a7ecf53c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e64acebe.css",
+    "static/js/main.a7ecf53c.js"
+  ]
+}
