@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/transcashform/static/css/main.e64acebe.css",
-    "main.js": "/transcashform/static/js/main.a7ecf53c.js",
-    "static/media/imgPrincipal.jpg": "/transcashform/static/media/imgPrincipal.fa2746a35282f2c3265e.jpg",
-    "index.html": "/transcashform/index.html",
-    "main.e64acebe.css.map": "/transcashform/static/css/main.e64acebe.css.map",
-    "main.a7ecf53c.js.map": "/transcashform/static/js/main.a7ecf53c.js.map"
+    "main.css": "/deeper/static/css/main.7f83068e.css",
+    "main.js": "/deeper/static/js/main.a7ecf53c.js",
+    "static/media/imgPrincipal.jpg": "/deeper/static/media/imgPrincipal.fa2746a35282f2c3265e.jpg",
+    "index.html": "/deeper/index.html",
+    "main.7f83068e.css.map": "/deeper/static/css/main.7f83068e.css.map",
+    "main.a7ecf53c.js.map": "/deeper/static/js/main.a7ecf53c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e64acebe.css",
+    "static/css/main.7f83068e.css",
     "static/js/main.a7ecf53c.js"
   ]
 }
